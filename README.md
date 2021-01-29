@@ -31,9 +31,12 @@
 
 12.消消乐：[https://wanghao221.github.io/game/xiaoxiaole](https://wanghao221.github.io/game/xiaoxiaole)
 
-13.可爱的开关：[https://wanghao221.github.io/game/switch.html](
+13.可爱的开关：[https://wanghao221.github.io/game/switch.html](https://wanghao221.github.io/game/switch.html)
 
+更多有趣、实用内容持续更新<br>
+扫码关注或者微信搜索公众号：啦啦啦好想biu点什么
 
+![啦啦啦好想biu点什么](https://img-blog.csdnimg.cn/20210118135732258.jpg#pic_center)
 
 <!--
 **pai-daxing1/pai-daxing1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
